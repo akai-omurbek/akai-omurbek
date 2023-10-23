@@ -15,4 +15,4 @@
 - TUI interfaces
 - Python
 
-I am *NOT* a programmer or an IT guy. I just enjoy browsing GitHub. I **love** Linux, open-source paradigm and little CLI apps. That's it. [Here is my CV](https://docs.google.com/viewer?url=https://github.com/akai-omurbek/Typst-CV/blob/main/cv.pdf) compiled with Typst typesetting engine. Template is 100% mine - authentic and ugly. 
+I am *NOT* a programmer or an IT guy. I just enjoy browsing GitHub. I **love** Linux, open-source paradigm and little CLI apps. That's it. [Here is my CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/akai-omurbek/Typst-CV/blob/main/cv.pdf) compiled with Typst typesetting engine. Template is 100% mine - authentic and ugly. 
